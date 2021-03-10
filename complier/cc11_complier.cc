@@ -1,3 +1,7 @@
+/**
+ * this is a BF script complier, which likes nodejs, python etc.
+ * usage: cc11_complier.out <your_BF_script>
+ * */
 #include "iostream"
 #include "string"
 
